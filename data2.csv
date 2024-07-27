@@ -1,0 +1,9 @@
+﻿Color,Model,Type
+red ,suv,domestic
+blue ,sedan,domestic
+green,suv,domestic
+red ,sedan,domestic
+blue ,suv,import
+green,sedan,import
+red ,suv,import
+blue ,sedan,import
